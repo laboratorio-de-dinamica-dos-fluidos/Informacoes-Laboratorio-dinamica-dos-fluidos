@@ -1,4 +1,4 @@
-# Informações Laboratório de Dinâmica dos Fluidos - FGA
+# Informações do Laboratório de Dinâmica dos Fluidos - FGA
 
 Este documento deve orientar a elaboração e execução de um experimento que visa atender parte dos requerimentos da disciplina de Dinâmica dos Fluidos. O objetivo do relatório é realizar a aplicação de instrumentos básicos de gestão de projetos para a elaboração, planejamento, preparação e execução de um experimento de Mecânica dos Fluidos. 
 
