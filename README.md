@@ -20,7 +20,7 @@ Objetivos do laboratório:
 
 6. Desenvolver a capacidade de trabalho em equipe; 
 
-Abaixo segue como colocar equações e imagens:
+Abaixo segue sugestão para colocar equações e imagens no arquivo README:
 
 
 Exemplo para anexar uma imagem (A imagem deve ser enviada para a pasta do grupo via *upload*):
