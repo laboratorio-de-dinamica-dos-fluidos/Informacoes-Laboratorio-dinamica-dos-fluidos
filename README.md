@@ -32,6 +32,13 @@ Para escrever as equações usando o formato do LateX use [este link](https://ww
 
 ![Teste de legenda de imagem 2](CodeCogsEqn.gif)
 
+ Os grupos que desejarem usar o laboratório de termofluidos para a montagem e execução do experimento poderão fazê-lo **nos horários de quarta-feira a partir de 28/08/2019 até o dia 28/11/2019**, onde:
+
+   -	O grupo deverá avisar o professor com antecedência, e poderá ir ao laboratório o número de vezes necessária para a completa execução do experimento;
+   -	Será permitido um máximo de quatro grupos por dia;
+ 
+Para auxílio no uso do GitHub, **será dada uma aula sobre seu uso no dia 21/08/2019 no laboratório de Termofluidos**;
+
 O laboratório consistirá de quatro etapas, que valerão 25% da nota do laboratório cada. Estas etapas são:
 
 1. Início: 
@@ -44,7 +51,7 @@ Inicialmente, cada grupo deverá escolher um tema para o experimento. Temas pode
 -	Vorticidade
 -	Efeito Magnus
 -	Efeito de Bernoulli
-- Tubo Venturi
+-   Tubo Venturi
 -	Placa de Orifício
 -	Perda de Carga
 -	Controle de Camada Limite
@@ -56,57 +63,49 @@ Em seguida, os grupos deverão:
 - Refinar o problema a ser resolvido, a fim de identificar seus principais requisitos (ou objetivos) funcionais e não funcionais; 
 - Analisar a viabilidade a partir de alguns requisitos básicos, como tempo (prazo de 1 semestre letivo), desafios técnicos, etc. 
 
-O relatório desta etapa deverá ser feito no repositório de cada grupo **até o dia 31/08/2019**, contendo os seguintes tópicos: 
-- Integrantes do grupo; 
-- Tema escolhido; 
-- Objetivo do experimento – O que será medido ou determinado no experimento; 
-- Requisitos de solução - Avaliação das possíveis soluções para cumprir os objetivos do experimento; 
-- Escopo do experimento – Estabelecimento de tarefas mínimas para cumprir os objetivos do experimento; 
-- Avaliação de viabilidade do experimento; 
+O relatório desta etapa deverá ser feito no repositório de cada grupo, contendo os seguintes tópicos: 
+- Integrantes do grupo; (**Entrega deste item no dia 24/08**) 
+- Tema escolhido; (**Entrega deste item no dia 24/08**) 
+- Objetivo do experimento – O que será medido ou determinado no experimento; (**Entrega deste item no dia 31/08**) 
+- Requisitos de solução - Avaliação das possíveis soluções para cumprir os objetivos do experimento; (**Entrega deste item no dia 31/08**) 
+- Escopo do experimento – Estabelecimento de tarefas mínimas para cumprir os objetivos do experimento; (**Entrega deste item no dia 31/08**) 
+- Avaliação de viabilidade do experimento;(**Entrega deste item no dia 31/08**)  
 
 ### 2.	Planejamento e Preparação:
 
 Nesta etapa, o experimento deverá ser planejado. A teoria envolvida deverá ser apresentada e os procedimentos experimentais deverão ser planejados nesta etapa.
 
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 29/04/2019**, contendo os seguintes tópicos:
+O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório contendo os seguintes tópicos:
 
-- Identificação do grupo;
-- Teoria do experimento;
 - Procedimentos experimentais, onde as seguintes informações deverão ser colocadas:
-    - Estimativa do tempo necessário para a montagem e execução do procedimento;
-    - Membro do grupo responsável pelo procedimento de montagem e execução;
-    - Cronograma estimado para a montagem e realização do experimento completo;
-- Determinação dos dados a serem medidos e/ou calculados;
-- Resultados esperados;
+    - Estimativa do tempo necessário para a montagem e execução do procedimento; (**Entrega deste item no dia 07/09**) 
+    - Membro do grupo responsável pelo procedimento de montagem e execução; (**Entrega deste item no dia 07/09**) 
+    - Cronograma estimado para a montagem e realização do experimento completo; (**Entrega deste item no dia 07/09**) 
+- Determinação dos dados a serem medidos e/ou calculados; (**Entrega deste item no dia 14/09**) 
+- Resultados esperados; (**Entrega deste item no dia 14/09**) 
 
 
 ### 3.	Execução:
 
 Nesta etapa, o experimento deverá ser montado e executado. A montagem e execução do experimento deverão ser apresentados nesta etapa.
 
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 15/06/2019**, contendo os seguintes tópicos:
+O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório, contendo os seguintes tópicos:
 
-- Integrantes do grupo;
-- Divisão de tarefas, conforme descrito na etapa 2. Se houver mudança em relação à etapa 2, uma justificativa deverá ser apresentada;
+- Divisão de tarefas, conforme descrito na etapa 2. Se houver mudança em relação à etapa 2, uma justificativa deverá ser apresentada; (**Entrega deste item no dia 21/09**) 
 - Descrição dos procedimentos realizados, onde deverão ser apresentados:
-  - Fotos do experimento montado;
-  - Descrição de cada procedimento executado e justificativa, se houver diferença com a etapa 2;
-  - Dados medidos;
+  - Fotos do experimento montado; (**Entrega deste item no dia 21/09**) 
+  - Descrição de cada procedimento executado e justificativa, se houver diferença com a etapa 2; (**Entrega deste item no dia 28/09**) 
+  - Dados medidos;(**Entrega deste item no dia 28/09**) 
   
   
-OBSERVAÇÕES: 
--	Os grupos que desejarem usar o laboratório de termofluidos para a montagem e execução do experimento poderão fazê-lo nos horários de quarta-feira a partir de **03/04/2019**. 
--	O grupo deverá avisar o professor com antecedência, e poderá ir ao laboratório o número de vezes necessária para a completa execução do experimento;
--	Será permitido um máximo de quatro grupos por dia;
 
 ### 4.	Análise e conclusão:
 
 Nesta etapa, os dados medidos na etapa 3 deverão ser analisados e o experimento deverá ser concluído. A análise de dados deverá ser apresentada nesta etapa.
 
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 29/06/2019**, contendo os seguintes tópicos:
+O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório, contendo os seguintes tópicos:
 
--	Integrantes do grupo;
--	Apresentação dos dados medidos no experimento com seu respectivo erro experimental;
--	Apresentação de gráficos e sua respectiva análise;
--	Comparação dos resultados com a teoria envolvida;
--	Conclusões do experimento;
+-	Apresentação dos dados medidos no experimento com seu respectivo erro experimental; (**Entrega deste item no dia 02/11**) 
+-	Apresentação de gráficos e sua respectiva análise; (**Entrega deste item no dia 09/11**) 
+-	Comparação dos resultados com a teoria envolvida; (**Entrega deste item no dia 16/11**) 
+-	Conclusões do experimento; (**Entrega deste item no dia 23/11**) 
