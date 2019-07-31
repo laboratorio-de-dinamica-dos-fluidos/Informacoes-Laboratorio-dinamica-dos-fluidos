@@ -66,7 +66,7 @@ Em seguida, os grupos deverão:
 O relatório desta etapa deverá ser feito no repositório de cada grupo, contendo os seguintes tópicos: 
 - Integrantes do grupo; (**Entrega deste item no dia 24/08**) 
 - Tema escolhido; (**Entrega deste item no dia 24/08**) 
-- Objetivo do experimento – O que será medido ou determinado no experimento; (**Entrega deste item no dia 31/08**) 
+- Objetivo do experimento – O que será medido ou determinado no experimento; (**Entrega deste item no dia 24/08**) 
 - Requisitos de solução - Avaliação das possíveis soluções para cumprir os objetivos do experimento; (**Entrega deste item no dia 31/08**) 
 - Escopo do experimento – Estabelecimento de tarefas mínimas para cumprir os objetivos do experimento; (**Entrega deste item no dia 31/08**) 
 - Avaliação de viabilidade do experimento;(**Entrega deste item no dia 31/08**)  
