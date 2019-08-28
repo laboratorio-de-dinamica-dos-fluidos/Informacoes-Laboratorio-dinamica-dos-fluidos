@@ -41,7 +41,7 @@ Para auxílio no uso do GitHub, **será dada uma aula sobre seu uso no dia 21/08
 
 O laboratório consistirá de quatro etapas, que valerão 25% da nota do laboratório cada. Estas etapas são:
 
-1. Início: 
+### 1. Início: 
 
 A primeira etapa deverá conter os objetivos do experimento escolhido. Um problema prático, dentro dos temas propostos a seguir, deve ser proposto para que possa ser resolvido experimentalmente utilizando os conhecimentos do curso de dinâmica dos fluidos. 
 
