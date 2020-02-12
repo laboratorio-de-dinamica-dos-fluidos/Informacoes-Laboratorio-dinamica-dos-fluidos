@@ -20,7 +20,7 @@ Objetivos do laboratório:
 
 6. Desenvolver a capacidade de trabalho em equipe; 
 
-Abaixo segue sugestão para colocar equações e imagens no arquivo README:
+Abaixo segue guias para colocar equações e imagens no arquivo README:
 
 
 Exemplo para anexar uma imagem (A imagem deve ser enviada para a pasta do grupo via *upload*):
@@ -47,11 +47,9 @@ A primeira etapa deverá conter os objetivos do experimento escolhido. Um proble
 
 Inicialmente, cada grupo deverá escolher um tema para o experimento. Temas poderão ser repetidos entre grupos, mas é vedada a repetição de experimentos. Os temas disponíveis são: 
 
--	Linhas de emissão de um escoamento fluido
 -	Vorticidade
 -	Efeito Magnus
 -	Efeito de Bernoulli
--   Tubo Venturi
 -	Placa de Orifício
 -	Perda de Carga
 -	Controle de Camada Limite
@@ -62,18 +60,19 @@ Em seguida, os grupos deverão:
 - Refinar o entendimento do experimento com conhecimentos de dinâmica dos fluidos, seu escopo e abrangência; 
 - Refinar o problema a ser resolvido, a fim de identificar seus principais requisitos (ou objetivos) funcionais e não funcionais; 
 - Analisar a viabilidade a partir de alguns requisitos básicos, como tempo (prazo de 1 semestre letivo), desafios técnicos, etc. 
-
 O relatório desta etapa deverá ser feito no repositório de cada grupo, contendo os seguintes tópicos: 
 - Integrantes do grupo; (**Entrega deste item no dia 24/08**) 
 - Tema escolhido; (**Entrega deste item no dia 24/08**) 
-- Objetivo do experimento – O que será medido ou determinado no experimento; (**Entrega deste item no dia 24/08**) 
-- Requisitos de solução - Avaliação das possíveis soluções para cumprir os objetivos do experimento; (**Entrega deste item no dia 31/08**) 
+- Elaboração do Problema: Avaliar o que é possível de ser mensurado ou calculado no experimento como resultado final; 
+- Requisitos de solução: Avaliar o que o é requisitado do experimento para fornecer o resultado final; (**Entrega deste item no dia 31/08**) 
+- Hipótese de solução do experimento - Quais são as possíveis ideias para realizar o experimento;
+- Objetivo do experimento – O que será medido ou determinado no experimento; (**Entrega deste item no dia 24/08**)
 - Escopo do experimento – Estabelecimento de tarefas mínimas para cumprir os objetivos do experimento; (**Entrega deste item no dia 31/08**) 
 - Avaliação de viabilidade do experimento;(**Entrega deste item no dia 31/08**)  
 
 ### 2.	Planejamento e Preparação:
 
-Nesta etapa, o experimento deverá ser planejado. A teoria envolvida deverá ser apresentada e os procedimentos experimentais deverão ser planejados nesta etapa.
+Nesta etapa, o experimento deverá ser planejado. Os procedimentos experimentais deverão ser planejados nesta etapa.
 
 O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório contendo os seguintes tópicos:
 
